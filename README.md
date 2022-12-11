@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyashtimsina
 - 👀 I’m interested in maths and computers.
-- 🌱 I’m currently learning computer science and also a science major
+- 🌱 I’m currently a science major in college.
 - 📫 How to reach me - timsinasuyash.in@gmail.com
 
 <!---
