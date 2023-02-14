@@ -12,6 +12,12 @@
   </a>
 </div>
 <h1 align="center"> Welcome to my github page </h1>
+<h2 align="center">~ I am highschool student [Science] </h2>
+<h2 align="center">~ An automotive and technology ethusiast </h2>
+
 <!---
 https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG
 --->
+---
+
+### :hammer_and_wrench: Languages That I am learning:
