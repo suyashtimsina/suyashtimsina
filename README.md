@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p align="center"> Welcome to my github page </p>
+<h1 align="center"> Welcome to my github page </h1>
 <p align="center">~ I am highschool student [Science] </p>
 <p align="center">~ An automotive and technology ethusiast </p>
 
