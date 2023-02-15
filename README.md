@@ -12,8 +12,8 @@
   </a>
 </div>
 <h1 align="center"> Welcome to my github page </h1>
-<p align="center">~ I am highschool student [Science] </p>
-<p align="center">~ An automotive and technology ethusiast </p>
+<h5 align="center">~ I am highschool student [Science] </h5>
+<h5 align="center">~ An automotive and technology ethusiast </h5>
 
 <!---
 https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG
