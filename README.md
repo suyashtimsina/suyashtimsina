@@ -30,3 +30,4 @@ https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suyashtimsina&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashtimsina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
