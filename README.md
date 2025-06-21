@@ -7,10 +7,11 @@
   <a href="https://youtube.com/@suyashtimsina2111">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/suyash_timsina">
+  <a href="https://x.com/wysnooz"
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h1 align="center"> Welcome to my github page </h1>
 
 ### Not a proficient!
+PLS JUDE MY CODE AND GIVE ME NEGATIVE CRITICISM
